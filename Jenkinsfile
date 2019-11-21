@@ -1,17 +1,7 @@
-pipeline 
+public class Jenkinsfile
 {
-    agent any
-    stages 
-    {
-        stage('Build') 
-        {
-            steps 
-            {
-                cd Documents/GitHub/simple-python-pyinstaller-app/sources
-                python add2vals.py 8 9
-            
-             }
-        }
-    }    
+	public static void main(String[] args)
+	{
+			println ("hjasjhslkda")
+	}
 }
-
