@@ -1,7 +1,4 @@
-public class Jenkinsfile
+node
 {
-	public static void main(String[] args)
-	{
-			println ("hjasjhslkda")
-	}
+	print "hkajhdfhs"
 }
