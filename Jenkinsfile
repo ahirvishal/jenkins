@@ -7,7 +7,8 @@ pipeline
         {
             steps 
             {
-                python C:\Users\symphony\Documents\GitHub\simple-python-pyinstaller-app\sources>add2vals.py 9 8
+                cd C:\Users\symphony\Documents\GitHub\simple-python-pyinstaller-app\sources
+                python add2vals.py 8 9
             
              }
         }
