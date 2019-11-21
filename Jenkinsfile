@@ -7,7 +7,8 @@ pipeline
         {
             steps 
             {
-                echo "kksdhfjdhfsjkfhdflsa" 
+                python --version
+                java --version
             
              }
         }
