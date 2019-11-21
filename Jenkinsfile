@@ -7,8 +7,7 @@ pipeline
         {
             steps 
             {
-                python --version
-                java --version
+                python C:\Users\symphony\Documents\GitHub\simple-python-pyinstaller-app\sources>add2vals.py 9 8
             
              }
         }
